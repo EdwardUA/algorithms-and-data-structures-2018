@@ -1,0 +1,4 @@
+Masiv 1 : 3 5 5 
+Masiv 2 : 4 4 4 
+
+Zadanie C = (A/B) u (B/A):333
