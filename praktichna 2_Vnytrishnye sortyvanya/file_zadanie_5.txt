@@ -1,0 +1,9 @@
+Kontrol'n³ pitannja
+Chim mozhna pojasniti r³znoman³ttja algoritm³v sortuvan'?
+----Rizni algoritmi na rizny vipadok
+Chomu na danij moment ne ³snuº un³versal'nogo algoritmu sortuvannja?
+----Bo kojen mae svoi nedoliki i efectivney ispolzovatb rizni algoritmi v riznih vupadkah
+Jak dotrimannja vlastivostej st³jkost³ ³ prirodnost³ vplivaº na trudom³stk³st' algoritmu sortuvannja?
+----BustriIIIe robit
+Jak viznachiti, jakim algoritmom sortuvannja v³ddati perevagu pri vir³shenn³ zadach³?
+----Google abo podivitis na + i -= algoritmy
